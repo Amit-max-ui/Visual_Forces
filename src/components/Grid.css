@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.grid-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
